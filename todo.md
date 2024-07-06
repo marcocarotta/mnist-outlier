@@ -1,10 +1,10 @@
 # TODO
 - DONE try to use as much as possibile the pyod package instead of sklearn. 
 - DONE use ROC-AUC as metric 
-- use PR-AUC as the metric for grid search
-- implement more of supervised learning methods, such as MLP, XGBOOST and SVM.
+- DONEuse PR-AUC as the metric for grid search
+- DONE implement more of supervised learning methods, such as MLP, XGBOOST and SVM.
 - implement AE, LOF.
-- visualize the dataset, like pca. take distribution .value_counts(). do the correlation matrix and plot as heat map.
+- DONE visualize the dataset, like pca. take distribution .value_counts(). do the correlation matrix and plot as heat map.
 - validate the supervised models, to understand overfitting (compare with the fact that you have done Cross validation in grid search)
 
 
@@ -17,5 +17,5 @@
 
 # project relation
 - start with preprocessing and visualization of the data
-- reasons why randomforest works better
+- reasons why randomforest works better than isolation forest
 - 
