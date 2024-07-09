@@ -9,7 +9,7 @@
 - DONE add complexity of the algorithms
 - DONE introduce the metrics that you've used to validate you model and explain why you have used it
 - DONE spiegare che ti aspetti che il supervised funziona meglio visto che dalla visualizzazione con la pca non sembrano ben separate le classi (domandarsi se questa cosa ha senso)
-- explains how you have planned to tackle the problem
+- DONE explains how you have planned to tackle the problem
 - spiegare bene i risultati e perche li reputi buoni
 - sitography and bibliography
 - DONE spostare la sperimentazione tSNE e kmeans nella parte sul dataset bilanciatao e vedere che succede
